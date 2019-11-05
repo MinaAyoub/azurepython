@@ -5,6 +5,6 @@ app = Flask(__name__)
 def hello():
     return "Hello Worlds, yeeeee!"
 
-for i in 10:
+for i in "LIST THIS SENTENCE":
     print (i)
 
