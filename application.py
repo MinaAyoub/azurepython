@@ -6,6 +6,5 @@ def hello():
     return "Hello Worlds, yeeleee!"
 
 def itir():
-    sty = "testing"
-    for i in sty:
+    for i in "testing":
         return i
