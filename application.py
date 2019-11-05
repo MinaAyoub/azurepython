@@ -7,4 +7,4 @@ def hello():
 
 def itir():
     for i in "testing":
-        return i
+        return "run"
