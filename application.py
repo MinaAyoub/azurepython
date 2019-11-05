@@ -5,6 +5,3 @@ app.route("/")
 def hello():
     return "Hello Worlds, yeeeekoe!"
 
-app.route("/")
-def itir():
-    return "weee"
