@@ -5,6 +5,7 @@ app = Flask(__name__)
 def hello():
     return "Hello Worlds, yeeleee!"
 
-for i in "LIST THIS SENTENCE":
-    print (i)
-
+def itir():
+    sty = "testing"
+    for i in sty:
+        return i
