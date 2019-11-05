@@ -3,8 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello Worlds, yeeleekoe!"
+    return "Hello Worlds, yeeeekoe!"
 
 def itir():
-    for i in "testing":
-        return "run"
+    return "weee"
